@@ -5,8 +5,8 @@
 // @description  MooMoo.io Day Night Evry 10 min
 // @author       xX_KSGaming_Xx (KoKsus)
 // @match        https://discord.com/login
-// @downloadURL
-// @updateURL
+// @downloadURL  https://github.com/xXKSGamingXx/moo-day-night-cycle/blob/main/day_night_cycle.js
+// @updateURL    https://github.com/xXKSGamingXx/moo-day-night-cycle/blob/main/day_night_cycle.js
 // @icon         https://imgur.com/UNUydQo.png
 // @grant        none
 // ==/UserScript==
